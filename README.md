@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [1288-remove-covered-intervals](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
