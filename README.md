@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
