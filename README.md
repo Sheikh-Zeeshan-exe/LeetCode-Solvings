@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
