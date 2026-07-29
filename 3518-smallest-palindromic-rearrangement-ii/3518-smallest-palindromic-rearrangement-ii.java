@@ -1,76 +1,79 @@
 class Solution {
-
-    private long comb(long n, long m, long k) {
-        long res = 1;
-        m = Math.min(m, n - m);
-
-        for (long i = 1; i <= m; i++) {
-            res = (res * (n - i + 1)) / i;
-            if (res > k) {
-                return k + 1;
+    public String smallestPalindrome(String inputStr, int K) {
+        int[] frequency = new int[26];
+        for (int i = 0; i < inputStr.length(); i++) {
+            char ch = inputStr.charAt(i);
+            frequency[ch - 'a']++;
+        }
+        char mid = 0;
+        for (int i = 0; i < 26; i++) {
+            if (frequency[i] % 2 == 1) {
+                mid = (char) ('a' + i);
+                frequency[i]--;
+                break;
             }
+        }
+        int[] halfFreq = new int[26];
+        int halfLength = 0;
+        for (int i = 0; i < 26; i++) {
+            halfFreq[i] = frequency[i] / 2;
+            halfLength += halfFreq[i];
+        }
+        long totalPerms = multinomial(halfFreq);
+        if (K > totalPerms) return "";
+        StringBuilder firstHalfBuilder = new StringBuilder();
+        for (int i = 0; i < halfLength; i++) {
+            for (int c = 0; c < 26; c++) {
+                if (halfFreq[c] > 0) {
+                    halfFreq[c]--;
+                    long perms = multinomial(halfFreq);
+                    if (perms >= K) {
+                        firstHalfBuilder.append((char) ('a' + c));
+                        break;
+                    } else {
+                        K -= perms;
+                        halfFreq[c]++;
+                    }
+                }
+            }
+        }
+        String firstHalf = firstHalfBuilder.toString();
+        String revHalf = new StringBuilder(firstHalf).reverse().toString();
+        String result;
+        if (mid == 0) {
+            result = firstHalf + revHalf;
+        } else {
+            result = firstHalf + mid + revHalf;
+        }
+        return result;
+    }
+    
+    static long maxK = 1000001;
+    
+    public long multinomial(int[] counts) {
+        int tot = 0;
+        for (int cnt : counts) {
+            tot += cnt;
+        }
+        long res = 1;
+        for (int i = 0; i < 26; i++) {
+            int cnt = counts[i];
+            res = res * binom(tot, cnt);
+            if (res >= maxK)
+                return maxK;
+            tot -= cnt;
         }
         return res;
     }
-
-    private long permutations(int rem, int[] bucket, long k) {
-        long ways = 1;
-        for (int i = 0; i < 26; i++) {
-            if (bucket[i] == 0) {
-                continue;
-            }
-
-            ways *= comb(rem, bucket[i], k);
-            if (ways > k) {
-                break;
-            }
-            rem -= bucket[i];
+    
+    public long binom(int n, int k) {
+        if (k > n) return 0;
+        if (k > n - k) k = n - k;
+        long result = 1;
+        for (int i = 1; i <= k; i++) {
+            result = result * (n - i + 1) / i;
+            if (result >= maxK) return maxK;
         }
-        return ways;
-    }
-
-    public String smallestPalindrome(String s, long k) {
-        int partition = s.length() / 2;
-        int[] bucket = new int[26];
-
-        for (int i = 0; i < partition; i++) {
-            bucket[s.charAt(i) - 97] += 1;
-        }
-
-        StringBuilder left = new StringBuilder();
-        long startIndex = 1;
-
-        for (int pos = 0; pos < partition; pos++) {
-            for (int i = 0; i < 26; i++) {
-                if (bucket[i] == 0) {
-                    continue;
-                }
-
-                bucket[i] -= 1;
-
-                long ways = permutations(partition - pos - 1, bucket, k);
-                if (startIndex + ways > k) {
-                    left.append((char) (i + 97));
-                    break;
-                }
-
-                bucket[i] += 1;
-                startIndex += ways;
-            }
-        }
-
-        if (left.length() < partition) {
-            return "";
-        }
-
-        if (s.length() % 2 != 0) {
-            left.append(s.charAt(partition));
-        }
-
-        for (int i = partition - 1; i >= 0; i--) {
-            left.append(left.charAt(i));
-        }
-
-        return left.toString();
+        return result;
     }
 }
