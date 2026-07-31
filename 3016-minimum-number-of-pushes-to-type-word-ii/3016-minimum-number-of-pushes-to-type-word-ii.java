@@ -11,7 +11,7 @@ class Solution {
             if(freq[i] == 0){
                 break;
             }
-            ans = ans + freq[i] * ((position/8) + 1);
+            ans = ans + freq[i] * ((position/8)+1);
             position++;
         }
         return ans;
