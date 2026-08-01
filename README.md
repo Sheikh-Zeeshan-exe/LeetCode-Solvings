@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1288-remove-covered-intervals) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3620-network-recovery-pathways) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1260-shift-2d-grid) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Greedy
