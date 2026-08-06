@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
 |  |
