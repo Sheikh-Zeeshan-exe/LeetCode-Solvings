@@ -13,6 +13,7 @@ class Solution {
         int ans = (n - map.size()) * 2;
 
         for(int row : map.keySet()){
+
             HashSet <Integer> seats = map.get(row);
 
             boolean left = true;
@@ -24,11 +25,9 @@ class Solution {
                 if(seat >= 2 && seat <= 5){
                     left = false;
                 }
-
                 if(seat >= 4 && seat <= 7){
                     middle = false;
                 }
-
                 if(seat >= 6 && seat <= 9){
                     right = false;
                 }
