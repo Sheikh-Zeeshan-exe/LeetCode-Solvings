@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0486-predict-the-winner](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0877-stone-game) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Dynamic Programming
@@ -146,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3501-maximize-active-section-with-trade-ii) |
