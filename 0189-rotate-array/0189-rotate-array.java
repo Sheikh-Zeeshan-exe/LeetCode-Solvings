@@ -5,7 +5,8 @@ class Solution {
         for(int i = 0; i<n; i++){
             temp[(i + k) % n] = nums[i];
         }
-        for(int i = 0; i<temp.length; i++){
+        int m = temp.length;
+        for(int i = 0; i<m; i++){
             nums[i] = temp[i];
         }
     }
