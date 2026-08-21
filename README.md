@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0628-maximum-product-of-three-numbers) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
