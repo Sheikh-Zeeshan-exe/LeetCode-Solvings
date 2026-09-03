@@ -7,7 +7,7 @@ class Solution {
             if (v < mn) {
                 mn = v;
             }
-            if ((v & 1) == 1) {
+            if((v&1) == 1){
                 hasOdd = true;
             }
         }
