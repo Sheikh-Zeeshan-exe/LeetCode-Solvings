@@ -1,12 +1,12 @@
 class Solution {
-    public int[] plusOne(int[] digits) {
-        int n = digits.length;
+    public int[] plusOne(int[] nums) {
+        int n = nums.length;
         for(int i = n-1; i >= 0; i--){
-            if(digits[i] < 9){
-                digits[i] = digits[i] + 1;
-                return digits;
+            if(nums[i] < 9){
+                nums[i] = nums[i] + 1;
+                return nums;
             }else{
-                digits[i] = 0;
+                nums[i] = 0;
             }
         }
         int[] arr = new int[n+1];
