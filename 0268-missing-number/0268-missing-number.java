@@ -12,12 +12,25 @@ class Solution {
         // return n;
 
         //approach 2 (optimal)
+        // int n = nums.length;
+        // int sum = n * (n+1) / 2;
+        // int org = 0;
+        // for(int i = 0; i<n; i++){
+        //     org = org + nums[i];
+        // }
+        // return sum - org;
+
+
+
+
+
+
+
         int n = nums.length;
-        int sum = n * (n+1) / 2;
-        int org = 0;
+        int total = (n*(n+1))/2;
         for(int i = 0; i<n; i++){
-            org = org + nums[i];
+            total = total - nums[i];
         }
-        return sum - org;
+        return total;
     }
 }
