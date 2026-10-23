@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
