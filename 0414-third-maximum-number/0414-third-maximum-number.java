@@ -2,13 +2,13 @@ class Solution {
     public int thirdMax(int[] nums) {
         int n = nums.length;
         Arrays.sort(nums);
-        HashSet <Integer> set = new HashSet<>();
+        HashSet<Integer> set = new HashSet<>();
         for(int i = n-1; i>=0; i--){
             if(!set.contains(nums[i])){
                 set.add(nums[i]);
-                if(set.size() == 3){
-                    return nums[i];
-                }
+            }
+            if(set.size() > 2){
+                return nums[i];
             }
         }
         return nums[n-1];
