@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
