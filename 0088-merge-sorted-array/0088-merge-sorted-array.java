@@ -1,7 +1,9 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        for (int i = m; i < m + n; i++) {
-            nums1[i] = nums2[i - m];
+        int j = nums1.length - 1;
+        for(int i = 0; i<n; i++){
+            nums1[j] = nums2[i];
+            j--;
         }
         Arrays.sort(nums1);
     }
