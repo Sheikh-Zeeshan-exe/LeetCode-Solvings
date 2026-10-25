@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0283-move-zeroes) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [1140-stone-game-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1872-stone-game-viii) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -421,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/0209-minimum-size-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sheikh-Zeeshan-exe/LeetCode-Solvings/tree/master/3090-maximum-length-substring-with-two-occurrences) |
