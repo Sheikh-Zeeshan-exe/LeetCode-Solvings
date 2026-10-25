@@ -10,9 +10,9 @@ class Solution {
                 minProd = maxProd;
                 maxProd = temp;
             }
-            minProd = Math.min(nums[i], minProd * nums[i]);
-            maxProd = Math.max(nums[i], maxProd * nums[i]);
-            finalProd = Math.max(maxProd, finalProd);
+            minProd = Math.min(nums[i], nums[i] * minProd);
+            maxProd = Math.max(nums[i], nums[i] * maxProd);
+            finalProd = Math.max(finalProd, maxProd);
         }
         return finalProd;
     }
