@@ -2,7 +2,6 @@ class Solution {
     public boolean isAnagram(String s, String t) {
         int n = s.length();
         int m = t.length();
-
         if(n != m){
             return false;
         }
@@ -17,12 +16,11 @@ class Solution {
             arr[c-'a']--;
         }
 
-        for(int nums : arr){
-            if(nums != 0){
+        for(int num : arr){
+            if(num != 0){
                 return false;
             }
         }
-
         return true;
     }
 }
